@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-🚀 NLP | Machine Learning | Data Science
+#🚀 NLP | Machine Learning | Data Science
 
-I recently completed my master’s degree and am currently taking professional development courses at Developers Institute. My first degree is in mathematics, which gives me a strong foundation in algorithms and data analysis. I'm passionate about Natural Language Processing (NLP), Machine Learning, and Data Science and always eager to explore new technologies.
+Mathematics graduate with two years of scientific research in NLP during my master's. Currently enhancing my skills through a Data Analytics course, focusing on data-driven decision-making, statistical analysis, and advanced data tools.
 
 🔬 Areas of Interest
 
