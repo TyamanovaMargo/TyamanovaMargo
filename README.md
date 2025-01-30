@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Margarita!
+## 👋 Hi, I'm Margo!
 
 <!--
 **TyamanovaMargo/TyamanovaMargo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
