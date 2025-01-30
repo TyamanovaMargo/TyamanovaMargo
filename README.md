@@ -18,5 +18,8 @@
 - **Tools:** Jupyter, VS Code, Git, Notion  
 
 ## 📫 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](your-linkedin)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](your-github)  
+## 📫 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](wwww.linkedin.com/in/margo-tiamanova-347914245)   
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/tyamanovarita)  
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/margaretzav)  
+
