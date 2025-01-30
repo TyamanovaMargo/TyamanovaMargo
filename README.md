@@ -17,7 +17,7 @@
 - **Data Analysis:** Pandas, NumPy, Matplotlib, Seaborn  
 - **Tools:** Jupyter, VS Code, Git, Notion  
 
-## 📫 Connect with Me  
+
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](wwww.linkedin.com/in/margo-tiamanova-347914245)   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/tyamanovarita)  
